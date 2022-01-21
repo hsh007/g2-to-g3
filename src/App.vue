@@ -12,6 +12,7 @@
 			return {
 				height: window.innerHeight,
 				locale: zhCN,
+				test:'何书豪'
 			}
 		}
 	}
